@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react_kakao/static/js/main.c514928e.js",
+    "static/media/sample.png": "/react_kakao/static/media/sample.34711a726cb018ceaa4d.png",
+    "static/media/noImg.png": "/react_kakao/static/media/noImg.ec692fdf273c86a0ba19.png",
+    "index.html": "/react_kakao/index.html",
+    "main.c514928e.js.map": "/react_kakao/static/js/main.c514928e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c514928e.js"
+  ]
+}
